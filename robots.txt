@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodegawasudo.github.io/sitemap.xml
